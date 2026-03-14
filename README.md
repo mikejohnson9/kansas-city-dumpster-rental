@@ -1,5 +1,3 @@
-# kansas-city-dumpster-rental
-Affordable dumpster rental services in Kansas City. Roll off dumpsters for residential and commercial projects.
 # Dumpster Rental Kansas City
 
 Looking for reliable dumpster rental in Kansas City?
