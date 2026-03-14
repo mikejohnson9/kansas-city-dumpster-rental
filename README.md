@@ -27,6 +27,6 @@ Olathe
 Independence  
 Lee’s Summit  
 
-Learn more:
+Learn More...
 
 https://kansascityrolloff.com/
